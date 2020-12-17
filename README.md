@@ -25,8 +25,8 @@ Molecular Testing Labs is both a provider of diagnostic services for patient-col
 Portland, OR 97218
 
 
-## GBF
-(gbf-inc.com)[http://www.gbf-inc.com/]
+## [GBF](http://www.gbf-inc.com/)
+[gbf-inc.com](http://www.gbf-inc.com/)
 
 #### Address
 2427 Penny Rd
