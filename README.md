@@ -8,13 +8,12 @@ If you would like your services to be included in this list, please reach out to
 
 
 ## [Molecular Testing Labs](https://www.moleculartestinglabs.com)
+Molecular Testing Labs is both a provider of diagnostic services for patient-collected samples and a manufacturer of kits.
 
 #### Address
 14401 SE 1st St
 
 Vancouver, WA 98684
-
-Molecular Testing Labs is both a provider of diagnostic services for patient-collected samples and a manufacturer of kits.
 
 
 ## [Morel Ink](https://www.morelink.com/)
