@@ -9,7 +9,9 @@ If you would like your services to be included in this list, please reach out to
 
 ## Molecular Testing Labs
 [moleculartestinglabs.com](https://www.moleculartestinglabs.com)
+
 14401 SE 1st St
+
 Vancouver, WA 98684
 
 Molecular Testing Labs is both a provider of diagnostic services for patient-collected samples and a manufacturer of kits.
@@ -17,11 +19,15 @@ Molecular Testing Labs is both a provider of diagnostic services for patient-col
 
 ## Morel Ink
 [morelink.com](https://www.morelink.com/)
+
 4824 NE 42nd Ave
+
 Portland, OR 97218
 
 
 ## GBF
 [gbf-inc.com)[http://www.gbf-inc.com/]
+
 2427 Penny Rd
+
 High Point, NC 27265
